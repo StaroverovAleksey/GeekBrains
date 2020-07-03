@@ -1,0 +1,5 @@
+Ivan 20000
+Maria 30000
+Vasya 15000
+Dmitriy 25000
+Lena 10000

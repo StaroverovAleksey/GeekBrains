@@ -5,5 +5,5 @@ def fact(n):
         yield factorial
 
 
-for el in fact(5):
+for el in fact(15):
     print(el)
